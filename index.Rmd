@@ -1,6 +1,6 @@
 ---
 title: "Gov 50 Final Project"
-author: "Your Name Here"
+author: "Chris Ruiz"
 description: "My final project"
 output:
   distill::distill_article:
@@ -11,4 +11,4 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to...
+I am interested in exploring data related to education. I volunteer at the Cambridge After School Program near Alewife and would love to see if I can collect data through surveys of the students about their thoughts on the effectiveness of the program, or really anything related to education. I don't really know how this will manifest itself, but its a good place to start and I'm excited to brainstorm!
